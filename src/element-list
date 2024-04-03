@@ -1,0 +1,14 @@
+se.ifmo
+se.ifmo.chat.handler
+se.ifmo.chat.runner
+se.ifmo.core.collection
+se.ifmo.core.collection.exceptions
+se.ifmo.core.collection.objects
+se.ifmo.core.commands
+se.ifmo.core.commands.list
+se.ifmo.core.io
+se.ifmo.core.io.console
+se.ifmo.core.io.file
+se.ifmo.core.io.format
+se.ifmo.core.io.format.json
+se.ifmo.core.io.format.json.adapters
